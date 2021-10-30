@@ -10,8 +10,8 @@ Nesnelerin oluşturulmasında ve yönetilmesinde kullanılan bir desendir.Yazıl
 
 Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
-  * ## [Singleton Pattern] (https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/SingletonPattern)
-  * ## [Builder Pattern] (https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/BuilderPattern)
-  * ## [Factory Pattern] (https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/FactoryMethod)
+  * ## [Singleton Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/SingletonPattern)
+  * ## [Builder Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/BuilderPattern)
+  * ## [Factory Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/FactoryMethod)
   * ## Abstract Factory Pattern
   * ## Prototype Pattern
