@@ -15,3 +15,15 @@ Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
   * ## [Factory Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/CreationalPatterns/FactoryMethod)
   * ## Abstract Factory Pattern
   * ## Prototype Pattern
+
+# 2. Structural Design Pattern (Yapısal Kalıplar)
+
+Yapısal tasarım desenleri genel olarak, sınıf ve nesnelerin bir araya gelerek nasıl daha büyük tasarımlar oluşturduğu ile alakalıdır. Bu tasarım deseni ile sınıflar arası ilişkiler tanımlanarak modeller daha basitleştirilmektedir. Yapısal sınıf desenlerinde, arabirimlerin veya sınıfların oluşturulmasında kalıtımdan faydalanılmaktadır.
+
+* ## [Adapter Pattern]
+* ## [Decarator Patern](https://github.com/ezgiyaman/Design_Patterns/tree/master/StructuralPatterns/DecoratorPattern)
+* ## [Bridge Pattern]
+* ## Facede Patern
+* ## Composite Patern
+* ## Proxy Patern
+* ## Flyweight Patern
