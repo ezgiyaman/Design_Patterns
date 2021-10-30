@@ -27,3 +27,19 @@ Yapısal tasarım desenleri genel olarak, sınıf ve nesnelerin bir araya gelere
 * ## Composite Patern
 * ## Proxy Patern
 * ## Flyweight Patern
+
+# 3. Behavioral Patterns (Davranışsal Kalıplar)
+
+* ## [Chain of Responsibility](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/TheChainofResponsibility)
+* ## [Observer](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/ObserverPattern)
+* ## [Mediator](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/Mediator%20Pattern)
+* ## Command
+* ## Strategy
+* ## State
+* ## Template
+* ## Iterator
+* ## Interpreter
+* ## Memento
+* ## Visitor
+
+
