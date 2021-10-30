@@ -30,9 +30,9 @@ Yapısal tasarım desenleri genel olarak, sınıf ve nesnelerin bir araya gelere
 
 # 3. Behavioral Patterns (Davranışsal Kalıplar)
 
-* ## [Chain of Responsibility](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/TheChainofResponsibility)
-* ## [Observer](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/ObserverPattern)
-* ## [Mediator](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/Mediator%20Pattern)
+* ## [Chain of Responsibility Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/TheChainofResponsibility)
+* ## [Observer Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/ObserverPattern)
+* ## [Mediator Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/Mediator%20Pattern)
 * ## Command
 * ## Strategy
 * ## State
