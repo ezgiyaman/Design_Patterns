@@ -32,7 +32,7 @@ Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
 # 3. Behavioral Patterns (Davranışsal Kalıplar)
 
-
+Nesnelerin birbirleri ile ilişkisini düzenleyen bir desendir.Belirli görevlerin bu işleri yapmak üzere tasarlanmış nesnelere gönderilmesi ve geri dönen sonuçların işlenmesi durumu davranışsal kalıplar içerisinde yapılmaktadır.
 
 Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
