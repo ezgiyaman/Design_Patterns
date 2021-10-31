@@ -36,7 +36,7 @@ Nesnelerin birbirleri ile ilişkisini düzenleyen bir desendir.Belirli görevler
 
 Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
-1 ## [Chain of Responsibility Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/TheChainofResponsibility)
+1- ## [Chain of Responsibility Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/TheChainofResponsibility)
 * ## [Observer Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/ObserverPattern)
 * ## [Mediator Pattern](https://github.com/ezgiyaman/Design_Patterns/tree/master/BehavioralPatterns/Mediator%20Pattern)
 * ## Command Pattern
