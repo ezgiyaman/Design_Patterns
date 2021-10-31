@@ -13,3 +13,4 @@ Component ve Decorator classın türediği interface.
 
 
 
+![138608327-92ca3520-3e77-4c2f-adff-7be68a0a60f4](https://user-images.githubusercontent.com/90327328/139575735-0d2f12f4-b413-4f19-a769-ef203fe174fc.png)
