@@ -20,11 +20,11 @@ Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
 Yapısal tasarım desenleri genel olarak, sınıf ve nesnelerin bir araya gelerek nasıl daha büyük tasarımlar oluşturduğu ile alakalıdır. Bu tasarım deseni ile sınıflar arası ilişkiler tanımlanarak modeller daha basitleştirilmektedir. Yapısal sınıf desenlerinde, arabirimlerin veya sınıfların oluşturulmasında kalıtımdan faydalanılmaktadır.
 
-Bu projede en çok kullanılan 3 pattern ile ilgili örnek bulunmaktadır.
 
-* ## [Adapter Pattern]
+
+* ## Adapter Pattern
 * ## [Decarator Patern](https://github.com/ezgiyaman/Design_Patterns/tree/master/StructuralPatterns/DecoratorPattern)
-* ## [Bridge Pattern]
+* ## Bridge Pattern
 * ## Facede Patern
 * ## Composite Patern
 * ## Proxy Patern
